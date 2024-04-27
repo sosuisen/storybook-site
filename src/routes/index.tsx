@@ -8,6 +8,7 @@ export default function Home() {
         storybook.jp (1996-2024)<br/>
       </p>
       <p>
+        見ててくれてありがとう。<br/>
         おやすみなさい。
       </p>
       <img src="goodnight.jpg" alt="Good night" />  
