@@ -13,7 +13,7 @@ export default function NotFound() {
         見ててくれてありがとう。<br/>
         おやすみなさい。
       </p>
-      <img src="goodnight.jpg" alt="Good night" />  
+      <img src="/goodnight.jpg" alt="Good night" />  
       <br/>
       疏水太郎  
     </main>
