@@ -4,16 +4,18 @@ import { HttpStatusCode } from "solid-start/server";
 export default function NotFound() {
   return (
     <main>
-      <Title>Not Found</Title>
-      <HttpStatusCode code={404} />
-      <h1>Page Not Found</h1>
+      <Title>storybook.jp</Title>
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
+        星影拾遺/storybook.jp<br/>
+         (1996-2024)
       </p>
+      <p>
+        見ててくれてありがとう。<br/>
+        おやすみなさい。
+      </p>
+      <img src="goodnight.jpg" alt="Good night" />  
+      <br/>
+      疏水太郎  
     </main>
   );
 }
