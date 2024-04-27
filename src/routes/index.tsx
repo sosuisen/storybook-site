@@ -6,9 +6,13 @@ export default function Home() {
       <Title>storybook.jp</Title>
       <p>
         storybook.jp (1996-2024)<br/>
-        <br/>
+      </p>
+      <p>
         おやすみなさい。
       </p>
+      <img src="goodnight.jpg" alt="Good night" />  
+      <br/>
+      疏水太郎    
     </main>
   );
 }
