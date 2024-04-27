@@ -5,7 +5,8 @@ export default function Home() {
     <main>
       <Title>storybook.jp</Title>
       <p>
-        storybook.jp (1996-2024)<br/>
+        星影拾遺/storybook.jp<br/>
+         (1996-2024)
       </p>
       <p>
         見ててくれてありがとう。<br/>
